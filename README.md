@@ -70,6 +70,7 @@ This endpoint takes 7 input queries and out of which 5 are mandatory and two are
 
 <br>
 If we are hosting this API locally here is an example of making a **GET** request to this API for endpoint "/convert":
+
 ```
 http://localhost:3000/convert?inputQName=Time&inputQSymbol=t&inputBaseUnit=s&outputBaseUnit=h&inputValue=4000
 ```
