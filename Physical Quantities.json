@@ -1,0 +1,1627 @@
+[
+{
+
+    "name": "Mass",
+    "symbol": "m",
+    "SI-Unit": { "name": "kilogram", "symbol": "kg" },
+    "All Units": [
+        { "name": "gram", "symbol": "g" },
+        { "name": "tonne", "symbol": "t" },
+        { "name": "Dalton", "symbol": "Da" },
+        { "name": "slug", "symbol": "sl" },
+        { "name": "pound", "symbol": "lb" },
+        { "name": "ounce", "symbol": "oz" },
+        { "name": "US ton", "symbol": "US-ton" },
+        { "name": "Imperial ton", "symbol": "UK-ton" },
+        { "name": "Solar Mass", "symbol": "M☉" }
+    ],
+    "SI-Unit Conversion Factors": [
+        { "unit": "g", "factor": 0.001 },
+        { "unit": "t", "factor": 1000 },
+        { "unit": "Da", "factor": 1.66054e-27 },
+        { "unit": "sl", "factor": 14.5939 },
+        { "unit": "lb", "factor": 0.453592 },
+        { "unit": "oz", "factor": 0.0283495 },
+        { "unit": "US-ton", "factor": 907.185 },
+        { "unit": "UK-ton", "factor": 1016.05 },
+        { "unit": "M☉", "factor": 1.989e30 }
+    ],
+    "SI-Units to Other Units Factors": [
+        { "resultingUnit": "g", "factor": 1000 },
+        { "resultingUnit": "t", "factor": 0.001 },
+        { "resultingUnit": "Da", "factor": 6.022e26 },
+        { "resultingUnit": "sl", "factor": 0.0685218 },
+        { "resultingUnit": "lb", "factor": 2.204623729870059 },
+        { "resultingUnit": "oz", "factor": 35.274 },
+        { "resultingUnit": "US-ton", "factor": 0.0011022927689594 },
+        { "resultingUnit": "UK-ton", "factor": 9.84251968503937e-4 },
+        { "resultingUnit": "M☉", "factor": 5.02785e-31 }
+    ]
+},
+{
+
+    "name": "Length",
+    "symbol": "L",
+    "SI-Unit": { "name": "meter", "symbol": "m" },
+    "All Units": [
+        { "name": "meter", "symbol": "m" },
+        { "name": "thousand of an inch", "symbol": "thou" },
+        { "name": "inch", "symbol": "in" },
+        { "name": "feet", "symbol": "ft" },
+        { "name": "yard", "symbol": "yd" },
+        { "name": "mile", "symbol": "mi" },
+        { "name": "fathom", "symbol": "ftm" },
+        { "name": "Nautical Mile", "symbol": "NM" },
+        { "name": "Chain", "symbol": "ch" },
+        { "name": "rod", "symbol": "rd" },
+        { "name": "furlong", "symbol": "fur" },
+        { "name": "hand", "symbol": "hh" }
+    ],
+    "SI-Unit Conversion Factors": [
+        { "unit": "m", "factor": 1 },
+        { "unit": "thou", "factor": 2.54e-5 },
+        { "unit": "in", "factor": 0.0254 },
+        { "unit": "ft", "factor": 0.3048 },
+        { "unit": "yd", "factor": 0.9144 },
+        { "unit": "mi", "factor": 1609.34 },
+        { "unit": "ftm", "factor": 1.8288 },
+        { "unit": "NM", "factor": 1852 },
+        { "unit": "ch", "factor": 20.1168 },
+        { "unit": "rd", "factor": 5.0292 },
+        { "unit": "fur", "factor": 201.168 },
+        { "unit": "hh", "factor": 0.1016 }
+    ],
+    "SI-Units to Other Units Factors": [
+        { "resultingUnit": "m", "factor": 1 },
+        { "resultingUnit": "thou", "factor": 39370.07874 },
+        { "resultingUnit": "in", "factor": 39.3701 },
+        { "resultingUnit": "ft", "factor": 3.28084 },
+        { "resultingUnit": "yd", "factor": 1.09361 },
+        { "resultingUnit": "mi", "factor": 0.000621371 },
+        { "resultingUnit": "ftm", "factor": 0.54680664 },
+        { "resultingUnit": "NM", "factor": 0.000539957 },
+        { "resultingUnit": "ch", "factor": 0.0497097 },
+        { "resultingUnit": "rd", "factor": 0.198839 },
+        { "resultingUnit": "fur", "factor": 0.00497096 },
+        { "resultingUnit": "hh", "factor": 9.84252 }
+    ]
+
+},
+{
+
+    "name": "Distance",
+    "symbol": "d",
+    "SI-Unit": { "name": "meter", "symbol": "m" },
+    "All Units": [
+        { "name": "meter", "symbol": "m" },
+        { "name": "thousand of an inch", "symbol": "thou" },
+        { "name": "inch", "symbol": "in" },
+        { "name": "feet", "symbol": "ft" },
+        { "name": "yard", "symbol": "yd" },
+        { "name": "mile", "symbol": "mi" },
+        { "name": "fathom", "symbol": "ftm" },
+        { "name": "Nautical Mile", "symbol": "NM" },
+        { "name": "Chain", "symbol": "ch" },
+        { "name": "rod", "symbol": "rd" },
+        { "name": "furlong", "symbol": "fur" },
+        { "name": "hand", "symbol": "hh" }
+    ],
+    "SI-Unit Conversion Factors": [
+        { "unit": "m", "factor": 1 },
+        { "unit": "thou", "factor": 2.54e-5 },
+        { "unit": "in", "factor": 0.0254 },
+        { "unit": "ft", "factor": 0.3048 },
+        { "unit": "yd", "factor": 0.9144 },
+        { "unit": "mi", "factor": 1609.34 },
+        { "unit": "ftm", "factor": 1.8288 },
+        { "unit": "NM", "factor": 1852 },
+        { "unit": "ch", "factor": 20.1168 },
+        { "unit": "rd", "factor": 5.0292 },
+        { "unit": "fur", "factor": 201.168 },
+        { "unit": "hh", "factor": 0.1016 }
+    ],
+    "SI-Units to Other Units Factors": [
+        { "resultingUnit": "m", "factor": 1 },
+        { "resultingUnit": "thou", "factor": 39370.07874 },
+        { "resultingUnit": "in", "factor": 39.3701 },
+        { "resultingUnit": "ft", "factor": 3.28084 },
+        { "resultingUnit": "yd", "factor": 1.09361 },
+        { "resultingUnit": "mi", "factor": 0.000621371 },
+        { "resultingUnit": "ftm", "factor": 0.54680664 },
+        { "resultingUnit": "NM", "factor": 0.000539957 },
+        { "resultingUnit": "ch", "factor": 0.0497097 },
+        { "resultingUnit": "rd", "factor": 0.198839 },
+        { "resultingUnit": "fur", "factor": 0.00497096 },
+        { "resultingUnit": "hh", "factor": 9.84252 }
+    ]
+
+},
+{
+
+    "name": "Time",
+    "symbol": "t",
+    "SI-Unit": { "name": "second", "symbol": "s" },
+    "All Units": [
+        { "name": "second", "symbol": "s" },
+        { "name": "minutes", "symbol": "min." },
+        { "name": "hour", "symbol": "h" },
+        { "name": "day", "symbol": "d" },
+        { "name": "year", "symbol": "yr" },
+        { "name": "fortnight", "symbol": "fn" }
+    ],
+    "SI-Unit Conversion Factors": [
+        { "unit": "s", "factor": 1 },
+        { "unit": "min.", "factor": 60 },
+        { "unit": "h", "factor": 3600 },
+        { "unit": "d", "factor": 86400 },
+        { "unit": "yr", "factor": 3.154e+7 },
+        { "unit": "fn", "factor": 1209600 }
+    ],
+    "SI-Units to Other Units Factors": [
+        { "resultingUnit": "s", "factor": 1 },
+        { "resultingUnit": "min", "factor": 0.01666667 },
+        { "resultingUnit": "h", "factor": 0.000277778 },
+        { "resultingUnit": "d", "factor": 1.15741e-5 },
+        { "resultingUnit": "yr", "factor": 3.17098e-8 },
+        { "resultingUnit": "fn", "factor": 8.2672e-7 }
+    ]
+},
+{
+
+    "name": "Current",
+    "symbol": "I",
+    "SI-Unit": { "name": "Ampere", "symbol": "A" },
+    "All Units": [
+        { "name": "Ampere", "symbol": "A" }
+    ],
+    "SI-Unit Conversion Factors": [
+        { "unit": "A", "factor": 1 }
+    ],
+    "SI-Units to Other Units Factors": [
+        { "resultingUnit": "A", "factor": 1 }
+    ]
+
+},
+{
+
+    "name": "Temperature",
+    "symbol": "T",
+    "SI-Unit": { "name": "kelvin", "symbol": "K" },
+    "All Units": [
+        { "name": "kelvin", "symbol": "K" },
+        { "name": "celsius", "symbol": "°C" },
+        { "name": "fahrenheit", "symbol": "°F" },
+        { "name": "rankine", "symbol": "°R" },
+        { "name": "Delisle", "symbol": "°De" },
+        { "name": "Réaumur", "symbol": "°Ré" },
+        { "name": "Rømer", "symbol": "°Rø" }
+    ],
+    "SI-Unit Conversion Factors": [
+        { "unit": "K", "factor": 1 },
+        { "unit": "°C", "factor": 1 , "offset": 273.15 },
+        { "unit": "°F", "factor": 17.77778 , "offset": 255.37222 },
+        { "unit": "°R", "factor": 0.555556  },
+        { "unit": "°De", "factor": -0.66667 , "offset": 373.15 },
+        { "unit": "°Ré", "factor": 1.25 , "offset": 273.15 },
+        { "unit": "°Rø", "factor": 1.90476 , "offset": 258.86428 }
+    ],
+    "SI-Units to Other Units Factors": [
+        { "resultingUnit": "K", "factor": 1 },
+        { "resultingUnit": "°C", "factor": 1 , "offset": -273.15 },
+        { "resultingUnit": "°F", "factor": 1.8 , "offset": -459.67 },
+        { "resultingUnit": "°R", "factor": 1.799998 },
+        { "resultingUnit": "°De", "factor": -1.4999925 , "offset": -373.15 },
+        { "resultingUnit": "°Ré", "factor": 0.8 , "offset": -218.52 },
+        { "resultingUnit": "°Rø", "factor": 0.5250005 , "offset": -258.86428 }
+    ]
+},
+{
+
+    "name": "Amount of substance",
+    "symbol": "n",
+    "SI-Unit": { "name": "mole", "symbol": "mol" },
+    "All Units": [
+        { "name": "mole", "symbol": "mol" }
+    ],
+    "SI-Unit Conversion Factors": [
+        { "unit": "mol", "factor": 1 }
+    ],
+    "SI-Units to Other Units Factors": [
+        { "resultingUnit": "mol", "factor": 1 }
+    ]
+},
+{
+
+    "name": "Luminous Intensity",
+    "symbol": "Iv",
+    "SI-Unit": { "name": "candela", "symbol": "cd" },
+    "All Units": [
+        { "name": "candela", "symbol": "cd" },
+        { "name": "Candlepower", "symbol": "cp" },
+        { "name": "Hefnerkerzen", "symbol": "HK" },
+        { "name": "Violle", "symbol": "Vle" }
+    ],
+    "SI-Unit Conversion Factors": [
+        { "unit": "cd", "factor": 1 },
+        { "unit": "cp", "factor": 1 },
+        { "unit": "HK", "factor": 0.92 },
+        { "unit": "Vle", "factor": 20.17 }
+    ],
+    "SI-Units to Other Units Factors": [
+        { "resultingUnit": "cd", "factor": 1 },
+        { "resultingUnit": "cp", "factor": 1 },
+        { "resultingUnit": "HK", "factor": 1.086956 },
+        { "resultingUnit": "Vle", "factor": 0.048309}
+    ]
+},
+{
+
+    "name": "Velocity",
+    "symbol": "v",
+    "SI-Unit": {
+      "name": "meter per second",
+      "symbol": "m/s"
+    },
+    "All Units": [
+      {"name": "foot per second", "symbol": "ft/s"},
+      {"name": "mile per hour", "symbol": "mph"},
+      {"name": "knot", "symbol": "kn"},
+      {"name": "meter per hour", "symbol": "m/h"}
+    ],
+    "SI-Unit Conversion Factors": [
+      {"unit": "ft/s", "factor": 0.3048},
+      {"unit": "mph", "factor": 0.44704},
+      {"unit": "kn", "factor": 0.5144444444},
+      {"unit": "m/h", "factor": 0.0002777777778}
+    ],
+    "SI-Units to Other Units Factors": [
+      {"resultingUnit": "ft/s", "factor": 3.280839895},
+      {"resultingUnit": "mph", "factor": 2.2369362921},
+      {"resultingUnit": "kn", "factor": 1.9438444924},
+      {"resultingUnit": "m/h", "factor": 3600}
+    ]
+},
+{
+
+    "name": "Acceleration",
+    "symbol": "a",
+    "SI-Unit": {
+      "name": "meter per second squared",
+      "symbol": "m/s²"
+    },
+    "All Units": [
+      {"name": "meter per second squared", "symbol": "m/s²"},
+      {"name": "standard gravity", "symbol": "g₀"},
+      {"name": "foot per second squared", "symbol": "ft/s²"},
+      {"name": "galileo", "symbol": "Gal"}
+    ],
+    "SI-Unit Conversion Factors": [
+      {"unit": "m/s²", "factor": 1 },
+      {"unit": "g₀", "factor": 9.80665},
+      {"unit": "ft/s²", "factor": 0.3048},
+      {"unit": "Gal", "factor": 0.01}
+    ],
+    "SI-Units to Other Units Factors": [
+      {"resultingUnit": "m/s²", "factor": 1 },
+      {"resultingUnit": "g₀", "factor": 0.1019716213},
+      {"resultingUnit": "ft/s²", "factor": 3.280839895},
+      {"resultingUnit": "Gal", "factor": 100}
+    ]
+},
+{
+
+    "name": "Angle",
+    "symbol": "θ",
+    "SI-Unit": {
+      "name": "radian",
+      "symbol": "rad"
+    },
+    "All Units": [
+      {"name": "radian", "symbol": "rad"},
+      {"name": "degree", "symbol": "°"},
+      {"name": "arcminute", "symbol": "'"},
+      {"name": "arcsecond", "symbol": "\""},
+      {"name": "gradian", "symbol": "gon"}
+    ],
+    "SI-Unit Conversion Factors": [
+      {"unit": "rad", "factor": 1 },
+      {"unit": "°", "factor": 0.01745329252},
+      {"unit": "'", "factor": 0.0002908882087},
+      {"unit": "\"", "factor": 4.848136811e-6},
+      {"unit": "gon", "factor": 0.01570796327}
+
+    ],
+    "SI-Units to Other Units Factors": [
+      {"resultingUnit": "rad", "factor": 1 },
+      {"resultingUnit": "°", "factor": 57.29577951},
+      {"resultingUnit": "'", "factor": 3437.746771},
+      {"resultingUnit": "\"", "factor": 206264.8062},
+      {"resultingUnit": "gon", "factor": 63.66197724}
+
+    ]
+},
+{
+    "name": "Data Storage",
+    "symbol": "D",
+    "SI-Unit": {
+      "name": "byte",
+      "symbol": "B"
+    },
+    "All Units": [
+      {"name": "byte", "symbol": "B"},
+      {"name": "kibibyte", "symbol": "KiB"},
+      {"name": "mebibyte", "symbol": "MiB"},
+      {"name": "gibibyte", "symbol": "GiB"},
+      {"name": "tebibyte", "symbol": "TiB"}
+    ],
+    "SI-Unit Conversion Factors": [
+      {"unit": "B", "factor": 1 },
+      {"unit": "KiB", "factor": 1024},
+      {"unit": "MiB", "factor": 1048576},
+      {"unit": "GiB", "factor": 1073741824},
+      {"unit": "TiB", "factor": 1099511627776}
+    ],
+    "SI-Units to Other Units Factors": [
+      {"resultingUnit": "B", "factor": 1 },
+      {"resultingUnit": "KiB", "factor": 0.0009765625},
+      {"resultingUnit": "MiB", "factor": 9.536743164e-7},
+      {"resultingUnit": "GiB", "factor": 9.313225746e-10},
+      {"resultingUnit": "TiB", "factor": 9.094947018e-13}
+    ]
+},
+{
+    "name": "Charge",
+    "symbol": "Q",
+    "SI-Unit": {
+      "name": "coulomb",
+      "symbol": "C"
+    },
+    "All Units": [
+      {"name": "coulomb", "symbol": "C"},
+      {"name": "ampere-hour", "symbol": "A·h"},
+      {"name": "statcoulomb", "symbol": "statC"},
+      {"name": "abcoulomb", "symbol": "abC"},
+      {"name": "elementary charge", "symbol": "e"}
+    ],
+    "SI-Unit Conversion Factors": [
+      {"unit": "C", "factor": 1 },
+      {"unit": "A·h", "factor": 3600},
+      {"unit": "statC", "factor": 3.335640952e-10},
+      {"unit": "abC", "factor": 10},
+      {"unit": "e", "factor": 1.602176634e-19}
+    ],
+    "SI-Units to Other Units Factors": [
+      {"resultingUnit": "C", "factor": 1 },
+      {"resultingUnit": "A·h", "factor": 0.0002777777778},
+      {"resultingUnit": "statC", "factor": 2.99792458e9},
+      {"resultingUnit": "abC", "factor": 0.1},
+      {"resultingUnit": "e", "factor": 6.241509074e18}
+    ]
+},
+{
+    "name": "Electric Potential",
+    "symbol": "V",
+    "SI-Unit": {
+      "name": "volt",
+      "symbol": "V"
+    },
+    "All Units": [
+      {"name": "volt", "symbol": "V"},
+      {"name": "statvolt", "symbol": "statV"},
+      {"name": "abvolt", "symbol": "abV"}
+    ],
+    "SI-Unit Conversion Factors": [
+      {"unit": "V", "factor": 1 },
+      {"unit": "statV", "factor": 299.792458},
+      {"unit": "abV", "factor": 1e-8}
+    ],
+    "SI-Units to Other Units Factors": [
+      {"resultingUnit": "V", "factor": 1 },
+      {"resultingUnit": "statV", "factor": 0.00333564095},
+      {"resultingUnit": "abV", "factor": 100000000}
+    ]
+},
+{
+    "name": "Density",
+    "symbol": "ρ",
+    "SI-Unit": {
+      "name": "kilogram per cubic meter",
+      "symbol": "kg/m³"
+    },
+    "All Units": [
+      {"name": "gram per cubic centimeter", "symbol": "g/cm³"},
+      {"name": "pound per cubic inch", "symbol": "lb/in³"},
+      {"name": "pound per cubic foot", "symbol": "lb/ft³"}
+    ],
+    "SI-Unit Conversion Factors": [
+      {"unit": "g/cm³", "factor": 1000},
+      {"unit": "lb/in³", "factor": 27679.90471},
+      {"unit": "lb/ft³", "factor": 16.01846337}
+    ],
+    "SI-Units to Other Units Factors": [
+      {"resultingUnit": "g/cm³", "factor": 0.001},
+      {"resultingUnit": "lb/in³", "factor": 3.6127292e-5},
+      {"resultingUnit": "lb/ft³", "factor": 0.06242796058}
+    ]
+},
+{
+    "name": "Energy",
+    "symbol": "E",
+    "SI-Unit": {
+      "name": "joule",
+      "symbol": "J"
+    },
+    "All Units": [
+      {"name": "joule", "symbol": "J"},
+      {"name": "calorie", "symbol": "cal"},
+      {"name": "electronvolt", "symbol": "eV"},
+      {"name": "British thermal unit", "symbol": "BTU"},
+      {"name": "watt-hour", "symbol": "W·h"},
+      {"name": "foot-pound", "symbol": "ft·lb"}
+    ],
+    "SI-Unit Conversion Factors": [
+      {"unit": "J", "factor": 1 },
+      {"unit": "cal", "factor": 4.184},
+      {"unit": "eV", "factor": 1.602176634e-19},
+      {"unit": "BTU", "factor": 1055.05585262},
+      {"unit": "W·h", "factor": 3600},
+      {"unit": "ft·lb", "factor": 1.355817948}
+    ],
+    "SI-Units to Other Units Factors": [
+      {"resultingUnit": "J", "factor": 1 },
+      {"resultingUnit": "cal", "factor": 0.239005736},
+      {"resultingUnit": "eV", "factor": 6.241509074e18},
+      {"resultingUnit": "BTU", "factor": 0.00094781712},
+      {"resultingUnit": "W·h", "factor": 0.0002777777778},
+      {"resultingUnit": "ft·lb", "factor": 0.7375621493}
+    ]
+},
+{
+    "name": "Work",
+    "symbol": "W",
+    "SI-Unit": {
+      "name": "joule",
+      "symbol": "J"
+    },
+    "All Units": [
+      {"name": "joule", "symbol": "J"},
+      {"name": "foot-pound", "symbol": "ft·lb"},
+      {"name": "erg", "symbol": "erg"},
+      {"name": "watt-hour", "symbol": "W·h"}
+    ],
+    "SI-Unit Conversion Factors": [
+      {"unit": "J", "factor": 1 },
+      {"unit": "ft·lb", "factor": 1.355817948},
+      {"unit": "erg", "factor": 1e-7},
+      {"unit": "W·h", "factor": 3600000000}
+    ],
+    "SI-Units to Other Units Factors": [
+      {"resultingUnit": "J", "factor": 1 },
+      {"resultingUnit": "ft·lb", "factor": 0.7375621493},
+      {"resultingUnit": "erg", "factor": 10000000},
+      {"resultingUnit": "W·h", "factor": 2.777777778e-10}
+    ]
+},
+{
+    "name": "Heat",
+    "symbol": "Q",
+    "SI-Unit": {
+      "name": "joule",
+      "symbol": "J"
+    },
+    "All Units": [
+      {"name": "joule", "symbol": "J"},
+      {"name": "calorie", "symbol": "cal"},
+      {"name": "British thermal unit", "symbol": "BTU"},
+      {"name": "therm", "symbol": "thm"}
+    ],
+    "SI-Unit Conversion Factors": [
+      {"unit": "J", "factor": 1 },
+      {"unit": "cal", "factor": 4.184},
+      {"unit": "BTU", "factor": 1055.05585262},
+      {"unit": "thm", "factor": 105506000}
+    ],
+    "SI-Units to Other Units Factors": [
+      {"resultingUnit": "J", "factor": 1 },
+      {"resultingUnit": "cal", "factor": 0.239005736},
+      {"resultingUnit": "BTU", "factor": 0.00094781712},
+      {"resultingUnit": "thm", "factor": 9.4781712e-9}
+    ]
+},
+{
+  "name": "Force",
+  "symbol": "F",
+  "SI-Unit": {
+    "name": "newton",
+    "symbol": "N"
+  },
+  "All Units": [
+    {"name": "newton", "symbol": "N"},
+    {"name": "dyne", "symbol": "dyn"},
+    {"name": "pound-force", "symbol": "lbf"},
+    {"name": "gram-force", "symbol": "gf"}
+  ],
+  "SI-Unit Conversion Factors": [
+    {"unit": "N", "factor": 1 },
+    {"unit": "dyn", "factor": 0.00001},
+    {"unit": "lbf", "factor": 4.4482216153},
+    {"unit": "gf", "factor": 0.00980665}
+  ],
+  "SI-Units to Other Units Factors": [
+    {"resultingUnit": "N", "factor": 1 },
+    {"resultingUnit": "dyn", "factor": 100000},
+    {"resultingUnit": "lbf", "factor": 0.2248089431},
+    {"resultingUnit": "gf", "factor": 101.9716213}
+  ]
+},
+{
+    "name": "Frequency",
+    "symbol": "f",
+    "SI-Unit": {
+      "name": "hertz",
+      "symbol": "Hz"
+    },
+    "All Units": [
+      {"name": "hertz", "symbol": "Hz"},
+      {"name": "revolutions per minute", "symbol": "rpm"}
+    ],
+    "SI-Unit Conversion Factors": [
+      {"unit": "Hz", "factor": 1 },
+      {"unit": "rpm", "factor": 0.01666666667}
+    ],
+    "SI-Units to Other Units Factors": [
+      {"resultingUnit": "Hz", "factor": 1 },
+      {"resultingUnit": "rpm", "factor": 60}
+    ]
+},
+{
+    "name": "Power",
+    "symbol": "P",
+    "SI-Unit": {
+      "name": "watt",
+      "symbol": "W"
+    },
+    "All Units": [
+      {"name": "watt", "symbol": "W"},
+      {"name": "horsepower", "symbol": "hp"},
+      {"name": "foot-pound per second", "symbol": "ft·lb/s"},
+      {"name": "calorie per second", "symbol": "cal/s"}
+    ],
+    "SI-Unit Conversion Factors": [
+      {"unit": "W", "factor": 1 },
+      {"unit": "hp", "factor": 745.6998716},
+      {"unit": "ft·lb/s", "factor": 1.355817948},
+      {"unit": "cal/s", "factor": 4.184}
+    ],
+    "SI-Units to Other Units Factors": [
+      {"resultingUnit": "W", "factor": 1 },
+      {"resultingUnit": "hp", "factor": 0.00134102209},
+      {"resultingUnit": "ft·lb/s", "factor": 0.7375621493},
+      {"resultingUnit": "cal/s", "factor": 0.239005736}
+    ]
+},
+{
+    "name": "Pressure",
+    "symbol": "p",
+    "SI-Unit": {
+      "name": "pascal",
+      "symbol": "Pa"
+    },
+    "All Units": [
+      {"name": "pascal", "symbol": "Pa"},
+      {"name": "bar", "symbol": "bar"},
+      {"name": "atmosphere", "symbol": "atm"},
+      {"name": "torr", "symbol": "Torr"},
+      {"name": "pounds per square inch", "symbol": "psi"},
+      {"name": "millimeter of mercury", "symbol": "mmHg"}
+    ],
+    "SI-Unit Conversion Factors": [
+      {"unit": "Pa", "factor": 1 },
+      {"unit": "bar", "factor": 100000},
+      {"unit": "atm", "factor": 101325},
+      {"unit": "Torr", "factor": 133.3223684},
+      {"unit": "psi", "factor": 6894.757293},
+      {"unit": "mmHg", "factor": 133.322387}
+    ],
+    "SI-Units to Other Units Factors": [
+      {"resultingUnit": "Pa", "factor": 1 },
+      {"resultingUnit": "bar", "factor": 0.00001},
+      {"resultingUnit": "atm", "factor": 9.869232667e-6},
+      {"resultingUnit": "Torr", "factor": 0.0075006168},
+      {"resultingUnit": "psi", "factor": 0.0001450377},
+      {"resultingUnit": "mmHg", "factor": 0.007500615}
+    ]
+},
+{
+  "name": "Torque",
+  "symbol": "τ",
+  "SI-Unit": {
+    "name": "newton-meter",
+    "symbol": "N·m"
+  },
+  "All Units": [
+    {"name": "newton-meter", "symbol": "N·m"},
+    {"name": "pound-foot", "symbol": "lb·ft"},
+    {"name": "pound-inch", "symbol": "lb·in"},
+    {"name": "gram-meter", "symbol": "g·m"}
+  ],
+  "SI-Unit Conversion Factors": [
+    {"unit": "N·m", "factor": 1 },
+    {"unit": "lb·ft", "factor": 1.355817948},
+    {"unit": "lb·in", "factor": 0.112984829},
+    {"unit": "g·m", "factor": 0.00980665}
+  ],
+  "SI-Units to Other Units Factors": [
+    {"resultingUnit": "N·m", "factor": 1 },
+    {"resultingUnit": "lb·ft", "factor": 0.7375621493},
+    {"resultingUnit": "lb·in", "factor": 8.850745791},
+    {"resultingUnit": "g·m", "factor": 101.9716213}
+  ]
+},
+{
+    "name": "Angular Velocity",
+    "symbol": "ω",
+    "SI-Unit": {
+      "name": "radian per second",
+      "symbol": "rad/s"
+    },
+    "All Units": [
+      {"name": "radian per second", "symbol": "rad/s"},
+      {"name": "degree per second", "symbol": "°/s"},
+      {"name": "revolution per minute", "symbol": "rpm"},
+      {"name": "revolution per second", "symbol": "rps"}
+    ],
+    "SI-Unit Conversion Factors": [
+      {"unit": "rad/s", "factor": 1 },
+      {"unit": "°/s", "factor": 0.01745329252},
+      {"unit": "rpm", "factor": 0.1047197551},
+      {"unit": "rps", "factor": 6.283185307}
+    ],
+    "SI-Units to Other Units Factors": [
+      {"resultingUnit": "rad/s", "factor": 1 },
+      {"resultingUnit": "°/s", "factor": 57.29577951},
+      {"resultingUnit": "rpm", "factor": 9.549296586},
+      {"resultingUnit": "rps", "factor": 0.1591549431}
+    ]
+},
+{
+    "name": "Angular Acceleration",
+    "symbol": "α",
+    "SI-Unit": {
+      "name": "radian per second squared",
+      "symbol": "rad/s²"
+    },
+    "All Units": [
+      {"name": "radian per second squared", "symbol": "rad/s²"},
+      {"name": "degree per second squared", "symbol": "°/s²"},
+      {"name": "revolution per minute squared", "symbol": "rpm²"}
+    ],
+    "SI-Unit Conversion Factors": [
+      {"unit": "rad/s²", "factor": 1 },
+      {"unit": "°/s²", "factor": 0.01745329252},
+      {"unit": "rpm²", "factor": 0.001745329252}
+    ],
+    "SI-Units to Other Units Factors": [
+      {"resultingUnit": "rad/s²", "factor": 1 },
+      {"resultingUnit": "°/s²", "factor": 57.29577951},
+      {"resultingUnit": "rpm²", "factor": 572.9577951}
+    ]
+},
+{
+    "name": "Momentum",
+    "symbol": "p",
+    "SI-Unit": {
+      "name": "kilogram meter per second",
+      "symbol": "kg·m/s"
+    },
+    "All Units": [
+      {"name": "gram meter per second", "symbol": "g·m/s"},
+      {"name": "newton-second", "symbol": "N·s"},
+      {"name": "pound-foot per second", "symbol": "lb·ft/s"}
+    ],
+    "SI-Unit Conversion Factors": [
+      {"unit": "g·m/s", "factor": 0.001},
+      {"unit": "N·s", "factor": 1 },
+      {"unit": "lb·ft/s", "factor": 0.1382549544}
+    ],
+    "SI-Units to Other Units Factors": [
+      {"resultingUnit": "g·m/s", "factor": 1000},
+      {"resultingUnit": "N·s", "factor": 1 },
+      {"resultingUnit": "lb·ft/s", "factor": 7.233013851}
+    ]
+},
+{
+    "name": "Impulse",
+    "symbol": "J",
+    "SI-Unit": {
+      "name": "newton-second",
+      "symbol": "N·s"
+    },
+    "All Units": [
+      {"name": "newton-second", "symbol": "N·s"},
+      {"name": "gram meter per second", "symbol": "g·m/s"},
+      {"name": "pound-force second", "symbol": "lbf·s"}
+    ],
+    "SI-Unit Conversion Factors": [
+      {"unit": "N.s", "factor": 1 },
+      {"unit": "g·m/s", "factor": 0.001},
+      {"unit": "lbf·s", "factor": 4.448221615}
+    ],
+    "SI-Units to Other Units Factors": [
+      {"resultingUnit": "N.s", "factor": 1 },
+      {"resultingUnit": "g·m/s", "factor": 1000},
+      {"resultingUnit": "lbf·s", "factor": 0.2248089431}
+    ]
+},
+{
+    "name": "Moment of Inertia",
+    "symbol": "I",
+    "SI-Unit": {
+      "name": "kilogram meter squared",
+      "symbol": "kg·m²"
+    },
+    "All Units": [
+      {"name": "pound foot squared", "symbol": "lb·ft²"},
+      {"name": "slug foot squared", "symbol": "slug·ft²"},
+      {"name": "gram meter squared", "symbol": "g·m²"}
+    ],
+    "SI-Unit Conversion Factors": [
+      {"unit": "g·m²", "factor": 0.001},
+      {"unit": "lb·ft²", "factor": 0.0421401101},
+      {"unit": "slug·ft²", "factor": 1.355817948}
+    ],
+    "SI-Units to Other Units Factors": [
+    {"resultingUnit": "g·m²", "factor": 1000},
+      {"resultingUnit": "lb·ft²", "factor": 23.7303604},
+      {"resultingUnit": "slug·ft²", "factor": 0.7375621493}
+    ]
+},
+{
+    "name": "Coefficient of Friction",
+    "symbol": "μ",
+    "SI-Unit": {
+      "name": "dimensionless",
+      "symbol": "1"
+    },
+    "All Units": [
+      {"name": "dimensionless", "symbol": "1"}
+    ],
+    "SI-Unit Conversion Factors": [
+      {"unit": "1", "factor": 1 }
+    ],
+    "SI-Units to Other Units Factors": [
+      {"resultingUnit": "1", "factor": 1 }
+    ]
+},
+{
+    "name": "Spring Constant",
+    "symbol": "k",
+    "SI-Unit": {
+      "name": "newton per meter",
+      "symbol": "N/m"
+    },
+    "All Units": [
+      {"name": "newton per meter", "symbol": "N/m"},
+      {"name": "pound-force per inch", "symbol": "lbf/in"},
+      {"name": "dyne per centimeter", "symbol": "dyn/cm"}
+    ],
+    "SI-Unit Conversion Factors": [
+      {"unit": "N/m", "factor": 1 },
+      {"unit": "lbf/in", "factor": 175.126835},
+      {"unit": "dyn/cm", "factor": 0.001}
+    ],
+    "SI-Units to Other Units Factors": [
+      {"resultingUnit": "N/m", "factor": 1 },
+      {"resultingUnit": "lbf/in", "factor": 0.005710147},
+      {"resultingUnit": "dyn/cm", "factor": 1000}
+    ]
+},
+{
+    "name": "Gravitational Field Strength",
+    "symbol": "g",
+    "SI-Unit": {
+      "name": "meter per second squared",
+      "symbol": "m/s²"
+    },
+    "All Units": [
+      {"name": "meter per second squared", "symbol": "m/s²"},
+      {"name": "newton per kilogram", "symbol": "N/kg"},
+      {"name": "gal", "symbol": "Gal"}
+    ],
+    "SI-Unit Conversion Factors": [
+      {"unit": "m/s²", "factor": 1 },
+      {"unit": "N/kg", "factor": 1 },
+      {"unit": "Gal", "factor": 0.01}
+    ],
+    "SI-Units to Other Units Factors": [
+      {"resultingUnit": "m/s²", "factor": 1 },
+      {"resultingUnit": "N/kg", "factor": 1 },
+      {"resultingUnit": "Gal", "factor": 100}
+    ]
+},
+{
+    "name": "Electric Field",
+    "symbol": "E",
+    "SI-Unit": {
+      "name": "volt per meter",
+      "symbol": "V/m"
+    },
+    "All Units": [
+      {"name": "volt per meter", "symbol": "V/m"},
+      {"name": "newton per coulomb", "symbol": "N/C"},
+      {"name": "statvolt per centimeter", "symbol": "statV/cm"}
+    ],
+    "SI-Unit Conversion Factors": [
+      {"unit": "V/m", "factor": 1 },
+      {"unit": "N/C", "factor": 1 },
+      {"unit": "statV/cm", "factor": 29979.2458}
+    ],
+    "SI-Units to Other Units Factors": [
+      {"resultingUnit": "V/m", "factor": 1 },
+      {"resultingUnit": "N/C", "factor": 1 },
+      {"resultingUnit": "statV/cm", "factor": 0.0000333564095}
+    ]
+},
+{
+    "name": "Resistance",
+    "symbol": "R",
+    "SI-Unit": {
+      "name": "ohm",
+      "symbol": "Ω"
+    },
+    "All Units": [
+      {"name": "ohm", "symbol": "Ω"},
+      {"name": "statohm", "symbol": "statΩ"}
+    ],
+    "SI-Unit Conversion Factors": [
+      {"unit": "Ω", "factor": 1},
+      {"unit": "statΩ", "factor": 898755178700}
+    ],
+    "SI-Units to Other Units Factors": [
+      {"resultingUnit": "Ω", "factor": 1},
+      {"resultingUnit": "statΩ", "factor": 1.112650056e-12}
+    ]
+},
+{
+    "name": "Resistivity",
+    "symbol": "ρ",
+    "SI-Unit": {
+      "name": "ohm meter",
+      "symbol": "Ω·m"
+    },
+    "All Units": [
+      {"name": "ohm meter", "symbol": "Ω·m"},
+      {"name": "ohm centimeter", "symbol": "Ω·cm"}
+    ],
+    "SI-Unit Conversion Factors": [
+      {"unit": "Ω·m", "factor": 1},
+      {"unit": "Ω·cm", "factor": 0.01}
+    ],
+    "SI-Units to Other Units Factors": [
+      {"resultingUnit": "Ω·m", "factor": 1},
+      {"resultingUnit": "Ω·cm", "factor": 100}
+    ]
+},
+{
+    "name": "Conductance",
+    "symbol": "G",
+    "SI-Unit": {
+      "name": "siemens",
+      "symbol": "S"
+    },
+    "All Units": [
+      {"name": "siemens", "symbol": "S"},
+      {"name": "mho", "symbol": "℧"}
+    ],
+    "SI-Unit Conversion Factors": [
+      {"unit": "S", "factor": 1 },
+      {"unit": "℧", "factor": 1 }
+    ],
+    "SI-Units to Other Units Factors": [
+      {"resultingUnit": "S", "factor": 1 },
+      {"resultingUnit": "℧", "factor": 1 }
+    ]
+},
+{
+    "name": "Conductivity",
+    "symbol": "σ",
+    "SI-Unit": {
+      "name": "siemens per meter",
+      "symbol": "S/m"
+    },
+    "All Units": [
+      {"name": "siemens per meter", "symbol": "S/m"},
+      {"name": "siemens per centimeter", "symbol": "S/cm"}
+    ],
+    "SI-Unit Conversion Factors": [
+      {"unit": "S/m", "factor": 1},
+      {"unit": "S/cm", "factor": 100}
+    ],
+    "SI-Units to Other Units Factors": [
+      {"resultingUnit": "S/m", "factor": 1},
+      {"resultingUnit": "S/cm", "factor": 0.01}
+    ]
+},
+{
+    "name": "Capacitance",
+    "symbol": "C",
+    "SI-Unit": {
+      "name": "farad",
+      "symbol": "F"
+    },
+    "All Units": [
+      {"name": "farad", "symbol": "F"},
+      {"name": "statfarad", "symbol": "statF"}
+    ],
+    "SI-Unit Conversion Factors": [
+      {"unit": "F", "factor": 1},
+      {"unit": "statF", "factor": 1.112650056e-12}
+    ],
+    "SI-Units to Other Units Factors": [
+      {"resultingUnit": "F", "factor": 1},
+      {"resultingUnit": "statF", "factor": 8.987551787e11}
+    ]
+},
+{
+    "name": "Permittivity",
+    "symbol": "ε",
+    "SI-Unit": {
+      "name": "farad per meter",
+      "symbol": "F/m"
+    },
+    "All Units": [
+      {"name": "farad per meter", "symbol": "F/m"},
+      {"name": "vacuum permittivity", "symbol": "ε₀"}
+    ],
+    "SI-Unit Conversion Factors": [
+      {"unit": "F/m", "factor": 1},
+      {"unit": "ε₀", "factor": 8.854187817e-12}
+    ],
+    "SI-Units to Other Units Factors": [
+      {"resultingUnit": "F/m", "factor": 1},
+      {"resultingUnit": "ε₀", "factor": 1.129409067e11}
+    ]
+},
+{
+    "name": "Inductance",
+    "symbol": "L",
+    "SI-Unit": {
+      "name": "henry",
+      "symbol": "H"
+    },
+    "All Units": [
+      {"name": "henry", "symbol": "H"},
+      {"name": "stathenry", "symbol": "statH"}
+    ],
+    "SI-Unit Conversion Factors": [
+      {"unit": "H", "factor": 1},
+      {"unit": "statH", "factor": 8.987551787e11}
+    ],
+    "SI-Units to Other Units Factors": [
+      {"resultingUnit": "H", "factor": 1},
+      {"resultingUnit": "statH", "factor": 1.112650056e-12}
+    ]
+},
+{
+    "name": "Magnetic Field",
+    "symbol": "B",
+    "SI-Unit": {
+      "name": "tesla",
+      "symbol": "T"
+    },
+    "All Units": [
+      {"name": "tesla", "symbol": "T"},
+      {"name": "gauss", "symbol": "G"}
+    ],
+    "SI-Unit Conversion Factors": [
+      {"unit": "T", "factor": 1},
+      {"unit": "G", "factor": 0.0001}
+    ],
+    "SI-Units to Other Units Factors": [
+      {"resultingUnit": "T", "factor": 1},
+      {"resultingUnit": "G", "factor": 10000}
+    ]
+},
+{
+    "name": "Magnetic Flux",
+    "symbol": "Φ",
+    "SI-Unit": {
+      "name": "weber",
+      "symbol": "Wb"
+    },
+    "All Units": [
+      {"name": "weber", "symbol": "Wb"},
+      {"name": "maxwell", "symbol": "Mx"}
+    ],
+    "SI-Unit Conversion Factors": [
+      {"unit": "Wb", "factor": 1},
+      {"unit": "Mx", "factor": 1e-8}
+    ],
+    "SI-Units to Other Units Factors": [
+      {"resultingUnit": "Wb", "factor": 1},
+      {"resultingUnit": "Mx", "factor": 1e8}
+    ]
+},
+{
+    "name": "Magnetization",
+    "symbol": "M",
+    "SI-Unit": {
+      "name": "ampere per meter",
+      "symbol": "A/m"
+    },
+    "All Units": [
+      {"name": "ampere per meter", "symbol": "A/m"},
+      {"name": "oersted", "symbol": "Oe"},
+      {"name": "gauss", "symbol": "G"}
+    ],
+    "SI-Unit Conversion Factors": [
+      {"unit":  "A/m", "factor": 1},
+      {"unit": "Oe", "factor": 79.57747155},
+      {"unit": "G", "factor": 1000}
+    ],
+    "SI-Units to Other Units Factors": [
+      {"resultingUnit":  "A/m", "factor": 1},
+      {"resultingUnit": "Oe", "factor": 0.01256637061},
+      {"resultingUnit": "G", "factor": 0.001}
+    ]
+},
+{
+    "name": "Displacement",
+    "symbol": "s",
+    "SI-Unit": {
+      "name": "meter",
+      "symbol": "m"
+    },
+    "All Units": [
+      {"name": "meter", "symbol": "m"},
+      {"name": "foot", "symbol": "ft"},
+      {"name": "inch", "symbol": "in"},
+      {"name": "mile", "symbol": "mi"}
+    ],
+    "SI-Unit Conversion Factors": [
+      {"unit": "m", "factor": 1},
+      {"unit": "ft", "factor": 0.3048},
+      {"unit": "in", "factor": 0.0254},
+      {"unit": "mi", "factor": 1609.344}
+    ],
+    "SI-Units to Other Units Factors": [
+      {"resultingUnit": "m", "factor": 1},
+      {"resultingUnit": "ft", "factor": 3.280839895},
+      {"resultingUnit": "in", "factor": 39.37007874},
+      {"resultingUnit": "mi", "factor": 0.0006213712}
+    ]
+},
+{
+    "name": "Wavelength",
+    "symbol": "λ",
+    "SI-Unit": {
+      "name": "meter",
+      "symbol": "m"
+    },
+    "All Units": [
+      {"name": "meter", "symbol": "m"},
+      {"name": "angstrom", "symbol": "Å"}
+    ],
+    "SI-Unit Conversion Factors": [
+      {"unit": "m", "factor": 1},
+      {"unit": "Å", "factor": 1e-10}
+    ],
+    "SI-Units to Other Units Factors": [
+      {"resultingUnit": "m", "factor": 1},
+      {"resultingUnit": "Å", "factor": 1e10}
+    ]
+},
+{
+    "name": "Refractive Index",
+    "symbol": "n",
+    "SI-Unit": {
+      "name": "dimensionless",
+      "symbol": "1"
+    },
+    "All Units": [
+      {"name": "dimensionless", "symbol": "1"}
+    ],
+    "SI-Unit Conversion Factors": [
+      {"unit": "1", "factor": 1 }
+    ],
+    "SI-Units to Other Units Factors": [
+      {"resultingUnit": "1", "factor": 1 }
+    ]
+},
+{
+    "name": "Focal Length",
+    "symbol": "f",
+    "SI-Unit": {
+      "name": "meter",
+      "symbol": "m"
+    },
+    "All Units": [
+      {"name": "meter", "symbol": "m"},
+      {"name": "inch", "symbol": "in"}
+    ],
+    "SI-Unit Conversion Factors": [
+      {"unit": "m", "factor": 1},
+      {"unit": "in", "factor": 0.0254}
+    ],
+    "SI-Units to Other Units Factors": [
+      {"resultingUnit": "m", "factor": 1},
+      {"resultingUnit": "in", "factor": 39.37007874}
+    ]
+},
+{
+    "name": "Magnification",
+    "symbol": "m",
+    "SI-Unit": {
+      "name": "dimensionless",
+      "symbol": "1"
+    },
+    "All Units": [
+      {"name": "dimensionless", "symbol": "1"}
+    ],
+    "SI-Unit Conversion Factors": [
+      {"unit": "1", "factor": 1 }
+    ],
+    "SI-Units to Other Units Factors": [
+      {"resultingUnit": "1", "factor": 1 }
+    ]
+},
+{
+    "name": "Specific Heat Capacity",
+    "symbol": "c",
+    "SI-Unit": {
+      "name": "joule per kilogram kelvin",
+      "symbol": "J/(kg·K)"
+    },
+    "All Units": [
+      {"name": "joule per kilogram kelvin", "symbol": "J/(kg·K)"},
+      {"name": "calorie per gram degree Celsius", "symbol": "cal/(g·°C)"}
+    ],
+    "SI-Unit Conversion Factors": [
+      {"unit": "J/(kg·K)", "factor": 1},
+      {"unit": "cal/(g·°C)", "factor": 4184}
+    ],
+    "SI-Units to Other Units Factors": [
+      {"resultingUnit": "J/(kg·K)", "factor": 1},
+      {"resultingUnit": "cal/(g·°C)", "factor": 0.000239006}
+    ]
+},
+{
+    "name": "Latent Heat",
+    "symbol": "L",
+    "SI-Unit": {
+      "name": "joule per kilogram",
+      "symbol": "J/kg"
+    },
+    "All Units": [
+      {"name": "joule per kilogram", "symbol": "J/kg"},
+      {"name": "calorie per gram", "symbol": "cal/g"},
+      {"name": "British thermal unit per pound", "symbol": "BTU/lb"}
+    ],
+    "SI-Unit Conversion Factors": [
+      {"unit": "J/kg", "factor": 1},
+      {"unit": "cal/g", "factor": 4184},
+      {"unit": "BTU/lb", "factor": 2326}
+    ],
+    "SI-Units to Other Units Factors": [
+      {"resultingUnit": "J/kg", "factor": 1},
+      {"resultingUnit": "cal/g", "factor": 0.000239006},
+      {"resultingUnit": "BTU/lb", "factor": 0.000429923}
+    ]
+},
+{
+    "name": "Entropy",
+    "symbol": "S",
+    "SI-Unit": {
+      "name": "joule per kelvin",
+      "symbol": "J/K"
+    },
+    "All Units": [
+      {"name": "joule per kelvin", "symbol": "J/K"},
+      {"name": "calorie per kelvin", "symbol": "cal/K"},
+      {"name": "Clausius", "symbol": "Cl"}
+    ],
+    "SI-Unit Conversion Factors": [
+      {"unit": "J/K", "factor": 1},
+      {"unit": "cal/K", "factor": 4.184},
+      {"unit": "Cl", "factor": 4.184}
+    ],
+    "SI-Units to Other Units Factors": [
+      {"resultingUnit": "J/K", "factor": 1},
+      {"resultingUnit": "cal/K", "factor": 0.239005736},
+      {"resultingUnit": "Cl", "factor": 0.239005736}
+    ]
+},
+{
+    "name": "Heat Capacity",
+    "symbol": "C",
+    "SI-Unit": {
+      "name": "joule per kelvin",
+      "symbol": "J/K"
+    },
+    "All Units": [
+      {"name": "joule per kelvin", "symbol": "J/K"},
+      {"name": "calorie per degree Celsius", "symbol": "cal/°C"}
+    ],
+    "SI-Unit Conversion Factors": [
+      {"unit": "J/K", "factor": 1},
+      {"unit": "cal/°C", "factor": 4.184}
+    ],
+    "SI-Units to Other Units Factors": [
+      {"resultingUnit": "J/K", "factor": 1},
+      {"resultingUnit": "cal/°C", "factor": 0.239005736}
+    ]
+},
+{
+    "name": "Viscosity",
+    "symbol": "η",
+    "SI-Unit": {
+      "name": "pascal second",
+      "symbol": "Pa·s"
+    },
+    "All Units": [
+      {"name": "pascal second", "symbol": "Pa·s"},
+      {"name": "poise", "symbol": "P"},
+      {"name": "pound-second per square foot", "symbol": "lb·s/ft²"}
+    ],
+    "SI-Unit Conversion Factors": [
+      {"unit": "Pa·s", "factor": 1},
+      {"unit": "P", "factor": 0.1},
+      {"unit": "lb·s/ft²", "factor": 47.88026}
+    ],
+    "SI-Units to Other Units Factors": [
+      {"resultingUnit": "Pa·s", "factor": 1}, 
+      {"resultingUnit": "P", "factor": 10}, 
+      {"resultingUnit": "lb·s/ft²", "factor": 0.02088543}
+    ]
+},
+{
+    "name": "Surface Tension",
+    "symbol": "γ",
+    "SI-Unit": {
+      "name": "newton per meter",
+      "symbol": "N/m"
+    },
+    "All Units": [
+      {"name": "newton per meter", "symbol": "N/m"},
+      {"name": "dyne per centimeter", "symbol": "dyn/cm"}
+    ],
+    "SI-Unit Conversion Factors": [
+      {"unit": "N/m", "factor": 1},
+      {"unit": "dyn/cm", "factor": 0.001}
+    ],
+    "SI-Units to Other Units Factors": [
+      {"resultingUnit": "N/m", "factor": 1},
+      {"resultingUnit": "dyn/cm", "factor": 1000}
+    ]
+},
+{
+    "name": "Stress",
+    "symbol": "σ",
+    "SI-Unit": {
+      "name": "pascal",
+      "symbol": "Pa"
+    },
+    "All Units": [
+      {"name": "pascal", "symbol": "Pa"},
+      {"name": "pound per square inch", "symbol": "psi"}
+    ],
+    "SI-Unit Conversion Factors": [
+      {"unit": "Pa", "factor": 1},
+      {"unit": "psi", "factor": 6894.757293}
+    ],
+    "SI-Units to Other Units Factors": [
+      {"resultingUnit": "Pa", "factor": 1},
+      {"resultingUnit": "psi", "factor": 0.0001450377}
+    ]
+},
+{
+    "name": "Strain",
+    "symbol": "ε",
+    "SI-Unit": {
+      "name": "dimensionless",
+      "symbol": "1"
+    },
+    "All Units": [
+      {"name": "percent", "symbol": "%"},
+      {"name": "dimensionless", "symbol": "1"}
+    ],
+    "SI-Unit Conversion Factors": [
+      {"unit": "%", "factor": 0.01},
+      {"unit": "1", "factor": 1 }
+    ],
+    "SI-Units to Other Units Factors": [
+      {"resultingUnit": "%", "factor": 100},
+      {"resultingUnit": "1", "factor": 1 }
+    ]
+},
+{
+    "name": "Young's Modulus",
+    "symbol": "E",
+    "SI-Unit": {
+      "name": "pascal",
+      "symbol": "Pa"
+    },
+    "All Units": [
+      {"name": "pascal", "symbol": "Pa"},
+      {"name": "pound per square inch", "symbol": "psi"}
+    ],
+    "SI-Unit Conversion Factors": [
+      {"unit": "Pa", "factor": 1},
+      {"unit": "psi", "factor": 6894.757293}
+    ],
+    "SI-Units to Other Units Factors": [
+      {"resultingUnit": "Pa", "factor": 1},
+      {"resultingUnit": "psi", "factor": 0.0001450377}
+    ]
+},
+{
+    "name": "Shear Modulus",
+    "symbol": "G",
+    "SI-Unit": {
+      "name": "pascal",
+      "symbol": "Pa"
+    },
+    "All Units": [
+      {"name": "pascal", "symbol": "Pa"},
+      {"name": "pound per square inch", "symbol": "psi"}
+    ],
+    "SI-Unit Conversion Factors": [
+      {"unit": "Pa", "factor": 1},
+      {"unit": "psi", "factor": 6894.757293}
+    ],
+    "SI-Units to Other Units Factors": [
+      {"resultingUnit": "Pa", "factor": 1},
+      {"resultingUnit": "psi", "factor": 0.0001450377}
+    ]
+},
+{
+    "name": "Bulk Modulus",
+    "symbol": "K",
+    "SI-Unit": {
+      "name": "pascal",
+      "symbol": "Pa"
+    },
+    "All Units": [
+      {"name": "pascal", "symbol": "Pa"},
+      {"name": "bar", "symbol": "bar"}
+    ],
+    "SI-Unit Conversion Factors": [
+      {"unit": "Pa", "factor": 1},
+      {"unit": "bar", "factor": 100000}
+    ],
+    "SI-Units to Other Units Factors": [
+      {"resultingUnit": "Pa", "factor": 1},
+      {"resultingUnit": "bar", "factor": 0.00001}
+    ]
+},
+{
+    "name": "Radioactive Activity",
+    "symbol": "A",
+    "SI-Unit": {
+      "name": "becquerel",
+      "symbol": "Bq"
+    },
+    "All Units": [
+      {"name": "becquerel", "symbol": "Bq"},
+      {"name": "curie", "symbol": "Ci"},
+      {"name": "rutherford", "symbol": "Rd"}
+    ],
+    "SI-Unit Conversion Factors": [
+      {"unit": "Bq", "factor": 1},
+      {"unit": "Ci", "factor": 37000000000},
+      {"unit": "Rd", "factor": 1000000}
+    ],
+    "SI-Units to Other Units Factors": [
+      {"resultingUnit": "Bq", "factor": 1},
+      {"resultingUnit": "Ci", "factor": 2.7027027e-11},
+      {"resultingUnit": "Rd", "factor": 0.000001}
+    ]
+},
+{
+    "name": "Half-life",
+    "symbol": "T₁/₂",
+    "SI-Unit": {
+      "name": "second",
+      "symbol": "s"
+    },
+    "All Units": [
+      {"name": "second", "symbol": "s"},
+      {"name": "minute", "symbol": "min"},
+      {"name": "hour", "symbol": "h"},
+      {"name": "day", "symbol": "d"},
+      {"name": "year", "symbol": "yr"}
+    ],
+    "SI-Unit Conversion Factors": [
+      {"unit": "s", "factor": 1},
+      {"unit": "min", "factor": 60},
+      {"unit": "h", "factor": 3600},
+      {"unit": "d", "factor": 86400},
+      {"unit": "yr", "factor": 31536000}
+    ],
+    "SI-Units to Other Units Factors": [
+      {"resultingUnit": "s", "factor": 1},
+      {"resultingUnit": "min", "factor": 0.01666666667},
+      {"resultingUnit": "h", "factor": 0.0002777777778},
+      {"resultingUnit": "d", "factor": 1.157407407e-5},
+      {"resultingUnit": "yr", "factor": 3.170979198e-8}
+    ]
+},
+{
+    "name": "Luminosity",
+    "symbol": "L",
+    "SI-Unit": {
+      "name": "watt",
+      "symbol": "W"
+    },
+    "All Units": [
+      {"name": "watt", "symbol": "W"},
+      {"name": "solar luminosity", "symbol": "L☉"},
+      {"name": "erg per second", "symbol": "erg/s"}
+    ],
+    "SI-Unit Conversion Factors": [
+      {"unit": "W", "factor": 1},
+      {"unit": "L☉", "factor": 3.828e26},
+      {"unit": "erg/s", "factor": 1e-7}
+    ],
+    "SI-Units to Other Units Factors": [
+      {"resultingUnit": "W", "factor": 1},
+      {"resultingUnit": "L☉", "factor": 2.612e-27},
+      {"resultingUnit": "erg/s", "factor": 10000000}
+    ]
+},
+{
+    "name": "Illuminance",
+    "symbol": "E_v",
+    "SI-Unit": {
+      "name": "lux",
+      "symbol": "lx"
+    },
+    "All Units": [
+      {"name": "lux", "symbol": "lx"},
+      {"name": "foot-candle", "symbol": "fc"},
+      {"name": "phot", "symbol": "ph"}
+    ],
+    "SI-Unit Conversion Factors": [
+      {"unit": "lx", "factor": 1},
+      {"unit": "fc", "factor": 10.76391042},
+      {"unit": "ph", "factor": 10000}
+    ],
+    "SI-Units to Other Units Factors": [
+      {"resultingUnit": "lx", "factor": 1},
+      {"resultingUnit": "fc", "factor": 0.09290304},
+      {"resultingUnit": "ph", "factor": 0.0001}
+    ]
+},
+{
+    "name": "Luminous Efficacy",
+    "symbol": "K",
+    "SI-Unit": {
+      "name": "lumen per watt",
+      "symbol": "lm/W"
+    },
+    "All Units": [
+      {"name": "lumen per watt", "symbol": "lm/W"}
+    ],
+    "SI-Unit Conversion Factors": [
+      {"unit": "lm/W", "factor": 1 }
+    ],
+    "SI-Units to Other Units Factors": [
+      {"resultingUnit": "lm/W", "factor": 1 }
+    ]
+},
+{
+     "name": "Decay Constant",
+    "symbol": "λ",
+    "SI-Unit": {
+            "name": "reciprocal second",
+            "symbol": "s⁻¹"
+    },
+    "All Units": [
+            { "name": "reciprocal second", "symbol": "s⁻¹" },
+            { "name": "reciprocal minute", "symbol": "min⁻¹" },
+            { "name": "reciprocal hour", "symbol": "h⁻¹" }
+        ],
+    "SI-Unit Conversion Factors": [
+            { "unit": "s⁻¹", "factor": 1, "power": -1 },
+            { "unit": "min⁻¹", "factor": 0.01666666667, "power": -1 },
+            { "unit": "h⁻¹", "factor": 0.0002777777778, "power": -1 }
+        ],
+    "SI-Units to Other Units Factors": [
+            { "resultingUnit": "s⁻¹", "factor": 1, "power": -1 },
+            { "resultingUnit": "min⁻¹", "factor": 60, "power": -1 },
+            { "resultingUnit": "h⁻¹", "factor": 3600, "power": -1 }
+        ]
+},
+{
+        "name": "Wave Number",
+        "symbol": "k",
+        "SI-Unit": {
+            "name": "reciprocal meter",
+            "symbol": "m⁻¹"
+        },
+        "All Units": [
+            { "name": "reciprocal meter", "symbol": "m⁻¹" },
+            { "name": "kayser", "symbol": "K" }
+        ],
+        "SI-Unit Conversion Factors": [
+            { "unit": "m⁻¹", "factor": 1, "power": -1 },
+            { "unit": "K", "factor": 100 }
+        ],
+        "SI-Units to Other Units Factors": [
+            { "resultingUnit": "m⁻¹", "factor": 1, "power": -1 },
+            { "resultingUnit": "K", "factor": 0.01 }
+        ]
+},
+{
+        "name": "Volume",
+        "symbol": "V",
+        "SI-Unit": {
+            "name": "cubic meter",
+            "symbol": "m³"
+        },
+        "All Units": [
+            { "name": "cubic meter", "symbol": "m³" },
+            { "name": "liter", "symbol": "L" },
+            { "name": "gallon (US)", "symbol": "gal" },
+            { "name": "cubic foot", "symbol": "ft³" },
+            { "name": "cubic inch", "symbol": "in³" }
+        ],
+        "SI-Unit Conversion Factors": [
+            { "unit": "m³", "factor": 1, "power": 3 },
+            { "unit": "L", "factor": 0.001 },
+            { "unit": "gal", "factor": 0.003785411784 },
+            { "unit": "ft³", "factor": 0.02831684659, "power": 3 },
+            { "unit": "in³", "factor": 1.6387064e-5, "power": 3 }
+        ],
+        "SI-Units to Other Units Factors": [
+            { "resultingUnit": "m³", "factor": 1, "power": 3 },
+            { "resultingUnit": "L", "factor": 1000 },
+            { "resultingUnit": "gal", "factor": 264.1720524 },
+            { "resultingUnit": "ft³", "factor": 35.31466672, "power": 3 },
+            { "resultingUnit": "in³", "factor": 61023.74409, "power": 3 }
+        ]
+},
+  {
+        "name": "Area",
+        "symbol": "A",
+        "SI-Unit": {
+            "name": "square meter",
+            "symbol": "m²"
+        },
+        "All Units": [
+            { "name": "square meter", "symbol": "m²" },
+            { "name": "square foot", "symbol": "ft²" },
+            { "name": "square mile", "symbol": "mi²" },
+            { "name": "acre", "symbol": "ac" }
+        ],
+        "SI-Unit Conversion Factors": [
+            { "unit": "m²", "factor": 1, "power": 2 },
+            { "unit": "ft²", "factor": 0.09290304, "power": 2 },
+            { "unit": "mi²", "factor": 2589988.110336, "power": 2 },
+            { "unit": "ac", "factor": 4046.8564224 }
+        ],
+        "SI-Units to Other Units Factors": [
+            { "resultingUnit": "m²", "factor": 1, "power": 2 },
+            { "resultingUnit": "ft²", "factor": 10.76391042, "power": 2 },
+            { "resultingUnit": "mi²", "factor": 3.861021585e-7, "power": 2 },
+            { "resultingUnit": "ac", "factor": 0.0002471053815 }
+        ]
+    }
+]
+    
+  
+ 
+
+  
+
+
+
+  
+
+
+
+
+
+
+
+
