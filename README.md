@@ -18,7 +18,7 @@ If we are hosting this API locally here is an example of making a **GET** reques
   http://localhost:3000/checkunits?inputQName=Time&inputQSymbol=t
   ```
   And the result will be:
-  ```
+```
 {
   "requestStatus": "Complete",
   "physicalQuantity": {
@@ -28,8 +28,7 @@ If we are hosting this API locally here is an example of making a **GET** reques
       "name": "second",
       "symbol": "s"
     },
-    "All Units": [
-      {
+    "All Units": [ {
         "name": "second",
         "symbol": "s"
       },
@@ -53,8 +52,8 @@ If we are hosting this API locally here is an example of making a **GET** reques
         "name": "fortnight",
         "symbol": "fn"
       }
-    ]
+   ] 
   }
 }
   
-  ```
+```
