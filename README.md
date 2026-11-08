@@ -154,4 +154,4 @@ node index.js
 - Now make a GET request to any of the desired endpoints "/checkuntis" OR "/convert" with query parameters to this API.
 - And after the request, you will get the results according to the input.
 <br>
-` Note: ` For reference you can check above commands and resulting JSONs.
+`` Note: `` For reference you can check above commands and resulting JSONs.
