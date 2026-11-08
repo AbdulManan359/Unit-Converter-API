@@ -130,6 +130,7 @@ And the output will be:
 ```
 #### How to use it?
 -After getting the project files, open the CLI and change your current directory to the project files. Like this:
+
 ```
 cd Path_to_Project_Folder
 ```
