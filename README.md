@@ -9,10 +9,10 @@ Unit Converter API provides:
 
 The output provided will be in the form of a JSON. 
 There are 2 endpoints "/checkunits" & "/convert" in this API.
-<br> **/checkunits**<br>
+#### /checkunits
 First, let's talk about this endpoint. This endpoint takes the following query parameters:
 - "inputQName": This is the name of any physical quantity.
-- "inputQSymbol": This is the symbol of that physical quantity.
+- "inputQSymbol": This is the symbol of that physical quantity.<br>
 If we are hosting this API locally here is an example of making a **GET** request to this API for endpoint "/checkunits":
   ```
   http://localhost:3000/checkunits?inputQName=Time&inputQSymbol=t
@@ -57,3 +57,5 @@ If we are hosting this API locally here is an example of making a **GET** reques
 }
   
 ```
+
+
