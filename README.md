@@ -140,7 +140,7 @@ And the output will be:
 <br>
 
 #### How to use it?
--After getting the project files, open the CLI and change your current directory to the project files. Like this:
+- After getting the project files, open the CLI and change your current directory to the project files. Like this:
 
 ```
 cd Path_to_Project_Folder
@@ -150,7 +150,7 @@ After that run following command:
 node index.js
 ```
 (Make sure NodeJS is installed already) You will get the following message: <br>
->  Listening on Port: 3000
+>  Listening to the requests on Port: 3000
 - Now make a GET request to any of the desired endpoints "/checkuntis" OR "/convert" with query parameters to this API.
 - And after the request, you will get the results according to the input.
 <br>
