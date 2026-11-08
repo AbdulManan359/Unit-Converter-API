@@ -1,6 +1,6 @@
 # Unit Converter API
 
-## This API gives information about units of different quantities and also converts a value of a quantity from one unit to another.
+## This API gives information about units of different physical quantities and also converts a value of a quantity from one unit to another.
 
 ### Introduction
 Unit Converter API provides:
