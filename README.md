@@ -14,11 +14,15 @@ First, let's talk about this endpoint. This endpoint takes the following query p
 - "inputQName": This is the name of any physical quantity.
 - "inputQSymbol": This is the symbol of that physical quantity.
 <br>
-If we are hosting this API locally here is an example of making a **GET** request to this API for endpoint "/checkunits":
+If we are hosting this API locally here is an example of making a **GET** request to this API for endpoint "/checkunits": <br>
+
 ```
   http://localhost:3000/checkunits?inputQName=Time&inputQSymbol=t
 ```
-  And the result will be:
+<br>
+And the result will be:
+<br>
+
 ```
 {
   "requestStatus": "Complete",
@@ -56,8 +60,9 @@ If we are hosting this API locally here is an example of making a **GET** reques
    ] 
   }
 }
-  
+
 ```
+
 #### /convert
 This endpoint takes 7 input queries and out of which 5 are mandatory and two are optional. These include:
 - "inputQName": This is the name of any physical quantity.
@@ -74,7 +79,11 @@ If we are hosting this API locally here is an example of making a **GET** reques
 ```
 http://localhost:3000/convert?inputQName=Time&inputQSymbol=t&inputBaseUnit=s&outputBaseUnit=h&inputValue=4000
 ```
+<br>
+
 And the output will be:
+
+<br>
 
 ```
 {
@@ -128,6 +137,8 @@ And the output will be:
   }
   
 ```
+<br>
+
 #### How to use it?
 -After getting the project files, open the CLI and change your current directory to the project files. Like this:
 
